@@ -32,7 +32,7 @@
     )
 ```
 
-## Front 에서의 Google Login 로직...
+## Google Login Logic
 
 ```js
 async function handleGoogleLogin() {
